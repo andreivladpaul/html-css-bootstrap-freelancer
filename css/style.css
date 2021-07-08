@@ -14,7 +14,10 @@ body {
   height: 260px;
   border: 1px solid black;
 }
-
+/* NAVBAR  */
+.nav-buttons {
+  display: block;
+}
 /* --------------------------------  */
 /* COMMON  */
 .green-water {
